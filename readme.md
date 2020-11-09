@@ -60,14 +60,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** Rood
 
-**Je focus:**
+**Je focus:** surface plane
 
 **Je opdracht:** https://www.ottografie.nl/campaigns/rino-pelle/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="./img/ottografie1.png" width="375px" alt="">
+<img src="./img/ottografie1.png" width="375px" alt="Deze pagina is vormgegeven in de huisstijl. Het is een pagina toegewijd aan een project waar ottografie aan heeft gewerkt.">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="img/ottografie2.png" width="375px" alt="omschrijving van de pagina">
+<img src="img/ottografie2.png" width="375px" alt="De about-pagina van ottografie is strak vormgegeven en heeft een geanimeerde slideshow op de pagina.">
