@@ -66,8 +66,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="./img/ottografie1.png" width="375px" alt="Deze pagina is vormgegeven in de huisstijl. Het is een pagina toegewijd aan een project waar ottografie aan heeft gewerkt.">
+<img src="./img/sourcy1.png" width="375px" alt="Deze pagina is vormgegeven in de huisstijl. De hoofdpagina van sourcy">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="img/ottografie2.png" width="375px" alt="De about-pagina van ottografie is strak vormgegeven en heeft een geanimeerde slideshow op de pagina.">
+<img src="img/sourcy2.png" width="375px" alt="Een van de product pagina's van sourcy.">
