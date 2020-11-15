@@ -54,11 +54,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **breakdown home-pagina**
 
-<img src="./img/sourcy1Breakdown" width="375px" alt="De homepagina van sourcy in onderdelen">
+<img src="./img/sourcy1Breakdown.png" width="375px" alt="De homepagina van sourcy in onderdelen">
 
 **breakdown van product-pagina**
 
-<img src="./img/sourcy2Breakdown" width="375px" alt="De product-pagina van sourcy in onderdelen">
+<img src="./img/sourcy2Breakdown.png" width="375px" alt="De product-pagina van sourcy in onderdelen">
 
 ## Intake (week 1)
 
