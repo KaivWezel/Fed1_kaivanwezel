@@ -48,8 +48,6 @@ _Screenshot 2_
 
 De productenslider werkt in principe. Alleen de knoppen moeten nog gepositioneerd worden en dan komt er javascript aan te pas. De 3 afbeeldingen moeten "snappen' (spreek uit als: "sneppen") en ook oneindig kunnen rondgaan.
 
-In pr
-
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
