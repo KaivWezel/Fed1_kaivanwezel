@@ -30,21 +30,31 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Eerste pagina qua markup gaat goed. Moeite gehad met overlappende content maar dat is opgelost.
+Ik kon helaas het lettertype van Sourcy niet terugvinden dus ik heb een gelijksoortig lettertype gepakt.
+Ben nog niet begonnen met javascript. Ik wil eerst alle css afmaken voordat ik ga programmeren. Dan is voor mij duidelijker wat er geprogrammeerd moet worden.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+_Screenshot 1_
+<img src="./img/voortgang/voortgang1.1.png" width= "375px" alt="Het bovenste deel van de pagina met vervorming van de hero">
+Pagina ziet er hetzelfde uit. Menubalk is over alles heen gepositioneerd zodat deze altijd in beeld is. Kleur moet uiteraard nog aangepast worden, maar dit is voor het overzicht.
+
+_Screenshot 2_
+<img src="./img/voortgang/voortgang1.2.png" width="375px" alt="De productenslide werkt">
+De productenslider werkt in principe. Alleen de knoppen moeten nog gepositioneerd worden en dan komt er javascript aan te pas. De 3 afbeeldingen moeten "snappen' (spreek uit als: "sneppen") en ook oneindig kunnen rondgaan.
+
+In pr
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
-| -------------- | ------------------ | ------------ | ---------------- |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Kai                                     | Nienke                           | Lisa                             | Jeroen           |
+| --------------------------------------- | -------------------------------- | -------------------------------- | ---------------- |
+| Verschil tussen mijn pagina en de echte | Overall look van huidige stavaza | Beste aanpak navigatie die slide | en dan ik dat    |
+| Semantiek                               | Semantiek                        | Bewerking van ul                 | dit wil ik zeker |
+| Bronnen (evt.)                          | Beste aanpak voor straks         | Iconen in een rij krijgen        | ...              |
 
 ### Verslag van meeting
 
