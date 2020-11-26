@@ -38,10 +38,12 @@ Ben nog niet begonnen met javascript. Ik wil eerst alle css afmaken voordat ik g
 
 _Screenshot 1_
 <img src="./img/voortgang/voortgang1.1.jpg" width= "375px" alt="Het bovenste deel van de pagina met vervorming van de hero">
+
 Pagina ziet er hetzelfde uit. Menubalk is over alles heen gepositioneerd zodat deze altijd in beeld is. Kleur moet uiteraard nog aangepast worden, maar dit is voor het overzicht.
 
 _Screenshot 2_
 <img src="./img/voortgang/voortgang1.2.jpg" width="375px" alt="De productenslide werkt">
+
 De productenslider werkt in principe. Alleen de knoppen moeten nog gepositioneerd worden en dan komt er javascript aan te pas. De 3 afbeeldingen moeten "snappen' (spreek uit als: "sneppen") en ook oneindig kunnen rondgaan.
 
 In pr
