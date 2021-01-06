@@ -31,11 +31,11 @@ _Screenshot 1_
 
 _Screenshot 2_
 
-<img src="./img/voortgang/Fadein.gif" width= "375px" alt="Element komt in 'faden' wanneer het in het schermbereik komt.">
+<img src="./img/voortgang/fadein.gif" width= "375px" alt="Eerste element komt in faden">
 
 _Screenshot 3_
 
-<img src="./img/voortgang/schudden.gif" width= "375px" alt="Element komt in 'faden' wanneer het in het schermbereik komt.">
+<img src="./img/voortgang/schudden.gif" width= "375px" alt="flesje schudt heen en weer.">
 
 _Screenshot 4_
 
