@@ -6,9 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. -https://www.sourcy.nl/-
+2. -https://developer.mozilla.org/en-US/docs/Web/CSS/transition-
+3. -https://www.youtube.com/watch?v=C_JKlr4WKKs&list=PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA&index=2-
 
 ## Eindgesprek (week 7/8)
 
